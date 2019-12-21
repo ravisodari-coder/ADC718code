@@ -1,2 +1,3 @@
 print("helloAjdfuhhf")
-prit("dsjhhguisdnfpisyhsndifuhr")
+print("dsjhhguisdnfpisyhsndifuhr")
+print("rjgir")
